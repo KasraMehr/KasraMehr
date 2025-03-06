@@ -17,7 +17,3 @@
 
 - 📫 How to reach me **kasramehrali@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasramehr&show_icons=true&locale=en&layout=compact" alt="kasramehr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasramehr&show_icons=true&locale=en" alt="kasramehr" /></p>
-
